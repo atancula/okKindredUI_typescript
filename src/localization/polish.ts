@@ -100,28 +100,24 @@ export const polish = {
       możemy wykreślić ją na mapie.
       Żadne inne informacje identyfikujące (np. imię i nazwisko) nie są dostarczane stronom trzecim.  Na przykład, wyślemy do Google wyłącznie termin „Hongkong”, 
       który poda nam szerokość i długość geograficzną, abyśmy mogli nakreślić lokalizację na mapie.`,
-      Answer2b: `Jeśli obawiasz się, że witryna jest całkowicie open source, więc można wziąć
-      kopię kodu źródłowego (patrz poniżej), spojrzeć w jaki sposób informacje są
-      przechowywane lub nawet gościć własną wersję tej strony.
-      Będziemy bardziej niż szczęśliwi, aby pomóc Ci go skonfigurować.`,
+      Answer2b: `Jeśli obawiasz się, że strona jest całkowicie open source, możesz wziąć
+      kopię kodu źródłowego (patrz poniżej),i sprawdzić jak przechowywane są twoje informacje, a nawet hostować własną wersję Twojej witryny.
+      Z przyjemnością pomożemy Ci ją skonfigurować.`,
 
-      Question3: `Mogę zobaczyć kod źródłowy?`,
+      Question3: `Czy mogę zobaczyć kod źródłowy?`,
       Answer3: `Kod źródłowy znajduje się na stronie
       <a href="https://github.com/JustinWingChungHui/okKindred">Github.com</a>.
-      Co widać na okKindred.com pochodzi z "production" oddział.`,
-      Answer3a: `Mamy wydał go z
+      To co widać na okKindred.com pochodzi z "production" branch.`,
+      Answer3a: `Kod źródłowy ma licencje MIT
       <a href="https://en.wikipedia.org/wiki/MIT_License">licencji MIT</a>
-      co oznacza, że ​​mogą swobodnie używać, kopiować i
-      modyfikować kod do własnych celów"
-      <a href="https://github.com/JustinWingChungHui/okKindred/blob/master/README.rst">README</a>
-      zawiera podstawowy przegląd tego, jak to
-      działa i instrukcje krok po kroku wdrożyć własną instancję`,
-      Answer3b: `Zapraszamy każdego, kto ma jakieś pomysły lub kto chce przyczynić się do
-      tego projektu i zrobić to lepiej! Szczególnie potrzebna jest pomoc z
-      tłumaczeniem na inne języki.
-      <a href="mailto:info@okkindred.com?subject=Development">skontaktuje</a>
-      jeśli chcesz przyczynić się, lub (nawet lepiej) złożyć wniosek ciągnij
-      Github :)`,
+      co oznacza, że możesz go swobodnie używać, kopiować i
+      modyfikować do własnych celów"
+      Tu: <a href="https://github.com/JustinWingChungHui/okKindred/blob/master/README.rst">README</a>
+      znajdziesz podstawowe omówienie tego, jak kod działa, oraz krok po kroku instrukcje dotyczące wdrażania własnego kodu`,
+      Answer3b: `Zapraszamy każdego, kto ma jakieś pomysły jak ulepszyć naszą stronę! Szczególnie potrzebujemy 
+      pomocy przy tłumaczeniu na inne języki.
+      <a href="mailto:info@okkindred.com?subject=Development">skontaktuj się z nami</a>
+      jeśli chcesz przyczynić się, lub (nawet lepiej) jeśli złożyć pull request z Github :)`,
 
       Question4: `Co to oznacza dla Ciebie, jeśli to nic nie kosztuje?`,
       Answer4: `Jesteśmy programistów, a jest to projekt stworzony w naszym wolnym czasie,
