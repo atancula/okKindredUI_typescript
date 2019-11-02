@@ -61,10 +61,10 @@ export const polish = {
       // About
       ViewDetails: 'Pokaż szczegóły',
       OurStory: 'Nasza historia',
-      OurStoryStub: 'Chciałbyś poznać historię, jak i dlaczego stworzyliśmy tę stronę?',
+      OurStoryStub: 'Jak i dlaczego stworzyliśmy tę stronę?',
       ContactUs: 'Skontaktuj się z nami',
-      ContactUsStub: `Jeśli masz jakieś pytania, chcesz zgłosić błąd, prosić o funkcji lub
-      przyczynić się do kodu źródłowego.`,
+      ContactUsStub: `Jeśli masz jakieś pytania, chcesz zgłosić błąd, poprosić o funkcję lub
+      dodać do kodu źródłowego.`,
       FAQ: 'FAQ',
       FAQStub: 'Często Zadawane Pytania',
 
