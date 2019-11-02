@@ -76,33 +76,22 @@ export const polish = {
 
       ContactHeading: 'Kontakt',
       ContactEmail: `Skontaktuj się z nami poprzez e-mail <a href="mailto:info@okkindred.com">info@okkindred.com</a>`,
-      ContactText1: `Jeśli jesteś w naszej rodzinie chcemy usłyszeć od ciebie i zapraszamy do
-      odwiedzenia i pobyt rundy w każdej chwili.
-      Jeśli masz login do tego miejscu i są częścią mojej rodziny,
-      można dostać mój numer telefonu i adres z mojego profilu!`,
-      ContactText2: `Ewentualnie, jeśli szukasz jakiejś pomocy z tej witryny, a nawet jeśli
-      chcesz nam pomóc założyć własną podobna strona prosimy daj nam znać!`,
-      ContactText3: `Jesteśmy bardzo mili ludzie i lubisz rozmawiać z ludźmi zainteresowanych
-      sames rzeczy jesteśmy Geek Stuff, oprogramowania, muzyki i szalony pan
-      globalnych chińskich rodzin ...`,
+      ContactText1: `Jeśli jesteś członkiem naszej rodziny skontaktuj się z nami, odwiedź nas w każdej chwili.
+      Jeśli masz login do tej strony i jesteś częścią mojej rodziny, możesz znaleźć mój numer telefonu i adres na moim profilu!
+      ContactText2: `Jeśli potrzebujesz pomocy w korzystaniu ze strony lub jeśli chcesz, abyśmy pomogli Ci założyć własną podobną stronę, skontaktuj się z nami!`,
+      ContactText3: `Jesteśmy całkiem w porządku, lubimy rozmawiać z osobami o podobnych zainteresowaniach: muzyka, technologia, programowanie, czy szalone chińskie rodziny...`,
 
       FAQHeading: 'Często Zadawane Pytania',
-      Question1: 'Czy ktoś może zobaczyć informacje na mojej rodziny?',
-      Answer1: `Nie, tylko ludzie w swoim drzewie genealogicznym, które zostały zaproszone
-      mogą zobaczyć informacje wejściowe. Informacja nie jest również przeszukiwać
-      przez zewnętrznych użytkowników i wyszukiwarek.`,
-
+      Question1: 'Kto może zobaczyć informacje o mojej rodzinie?',
+      Answer1: `Tylko osoby z Twojego drzewia genealogicznego, mogą zobaczyć informacje które zamieszczas na stronie. Informacje o Twojej rodzinie nie mogą zostać wyszukane przez innych użytkowników strony, którzy nie należą do Twojej rodziny lub przez wyszukiwarki internetowe.`
       Question2: `Czy moje dane są bezpieczne?`,
-      Answer2: `Traktujemy bezpieczeństwo i prywatność bardzo poważnie. Trzymamy szczegóły
-      naszej rodziny na tej stronie, a my nigdy nie zrobi nic, aby zaszkodzić te
-      dane!
-      Tylko własne członkowie rodziny, które zapraszają do dzielenia
-      drzewa są w stanie zobaczyć informacje, które należy wpisać na stronie.
-      Ponadto, nie sprzedawać, ani nie wynajmujemy osobistych
-      informacji identyfikacyjnych dla innych.`,
-      Answer2a: `Witryna jest utrzymywana z
+      Answer2: `Bardzo poważnie podchodzimy do bezpieczeństwa i prywatności. Na tej stronie przechowujemy dane naszej 
+      rodziny i nigdy nie zrobilibyśmy czegoś, co mogłoby zagrozić tym danym!
+      Tylko członkowie Twojej rodziny zaproszeni do Twojego drzewa mogą zobaczyć informacje, które wprowadzasz na stronie.
+      Ponadto nie sprzedajemy, nie handlujemy ani nie wypożyczamy danych osobowych osobom trzecim.`,
+      Answer2a: `Witryna jest hostowana przez
       <a href="https://www.pythonanywhere.com/?affiliate_id=00022aed">PythonAnywhere</a>
-      którzy sami podejmują prywatność bardzo poważnie.
+      którzy sami bardzo poważnie podchodzą do kwestii prywatności .
       Używamy również <a href="https://aws.amazon.com/s3/">Amazon S3</a>
       przechowywać żadnych obrazów, które przesyłasz.
       Robimy korzystać z usług TRZECIĄ
