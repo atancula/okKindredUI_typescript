@@ -92,18 +92,14 @@ export const polish = {
       Answer2a: `Witryna jest hostowana przez
       <a href="https://www.pythonanywhere.com/?affiliate_id=00022aed">PythonAnywhere</a>
       którzy sami bardzo poważnie podchodzą do kwestii prywatności .
-      Używamy również <a href="https://aws.amazon.com/s3/">Amazon S3</a>
-      przechowywać żadnych obrazów, które przesyłasz.
-      Robimy korzystać z usług TRZECIĄ
+      Używamy również: <a href="https://aws.amazon.com/s3/">Amazon S3</a>
+      do przechowywania zdjęć, które wrzucasz na stronę.
+      Korzystamy z usług stron trzecich:
       <a href="https://en.wikipedia.org/wiki/Geocoding">geokodowanie</a>
-      (Google i Microsoft). To jest
-      konwersja lokalizację na długości i szerokości geograficznej, dzięki czemu
-      możemy wykreślić go na mapie.
-      Jednak żadne inne identyfikujące fragmenty informacji (na przykład nazwa)
-      dostarczane są z tego miejsca do tych stron trzecich.
-      Tak na przykład wyślemy jedynie termin "Hongkongu" do Google,
-      który będzie następnie dać nam szerokości i długości geograficznej, dzięki
-      czemu możemy wykreślić go na mapie.`,
+      (Google i Microsoft) żeby przekształcić lokalizację na długość i szerokość geograficzną, dzięki czemu
+      możemy wykreślić ją na mapie.
+      Żadne inne informacje identyfikujące (np. imię i nazwisko) nie są dostarczane stronom trzecim.  Na przykład, wyślemy do Google wyłącznie termin „Hongkong”, 
+      który poda nam szerokość i długość geograficzną, abyśmy mogli nakreślić lokalizację na mapie.`,
       Answer2b: `Jeśli obawiasz się, że witryna jest całkowicie open source, więc można wziąć
       kopię kodu źródłowego (patrz poniżej), spojrzeć w jaki sposób informacje są
       przechowywane lub nawet gościć własną wersję tej strony.
