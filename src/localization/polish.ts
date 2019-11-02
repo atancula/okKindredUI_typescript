@@ -49,13 +49,13 @@ export const polish = {
 
       // Introduction
       Slide1Header: 'Witamy w ok!Kindred',
-      Slide1Desc: 'Bezpłatne i open source drzewo genealogiczne i udostępnianie zdjęć www',
+      Slide1Desc: 'Bezpłatne drzewo genealogiczne i witryna służąca do udostępniania zdjęć',
       Slide2Header: 'Tworzenie i udostępnianie',
-      Slide2Desc: 'Tworzenie i udostępnianie wielojęzycznej drzewo genealogiczne z rodziną i zaprosić członków rodziny, by go zobaczyć i dodać do niej',
-      Slide3Header: 'Mapa swoją rodzinę',
-      Slide3Desc: 'Wykreślić położenie każdego z krewnych na mapie',
-      Slide4Header: 'Dzielić się zdjęciami',
-      Slide4Desc: 'Udostępnianie zdjęć prywatnie między rodziną i naklejki członków rodziny',
+      Slide2Desc: 'Utwórz drzewo genealogiczne i zaproś członków swojej rodziny, aby mogli je przeglądać i dodawać do niego kolejne gałęzie',
+      Slide3Header: 'Umieść swoją rodzinę na mapie',
+      Slide3Desc: 'Wykreśl położenie każdego członka swojej rodziny na mapie',
+      Slide4Header: 'Udostępnij swoje zdjęcia',
+      Slide4Desc: 'Udostępnij zdjęia prywatnie między rodziną i oznacz członków rodziny na zdjęciach',
       SignUpButton: 'Zapisz się',
 
       // About
