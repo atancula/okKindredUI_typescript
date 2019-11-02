@@ -117,28 +117,27 @@ export const polish = {
       Answer3b: `Zapraszamy każdego, kto ma jakieś pomysły jak ulepszyć naszą stronę! Szczególnie potrzebujemy 
       pomocy przy tłumaczeniu na inne języki.
       <a href="mailto:info@okkindred.com?subject=Development">skontaktuj się z nami</a>
-      jeśli chcesz przyczynić się, lub (nawet lepiej) jeśli złożyć pull request z Github :)`,
+      jeśli chcesz przyczynić się, lub jeśli chcesz złożyć pull request z Github :)`,
 
-      Question4: `Co to oznacza dla Ciebie, jeśli to nic nie kosztuje?`,
-      Answer4: `Jesteśmy programistów, a jest to projekt stworzony w naszym wolnym czasie,
-      aby rozwinąć naszą Skillset i dodać do naszego portfela, aby pokazać innym.
-      To był najlepszy sposób na porządkowanie informacji na temat
-      naszej własnej rodziny i mamy nadzieję, że nowi użytkownicy będą oferować
-      propozycje w celu poprawy witryny lub nawet przyczynić się kod.`,
+      Question4: `Czy mogę zaufać stronie które nic nie kosztuje?`,
+      Answer4: `Jesteśmy programistami i storzylismy i ulepszamy tą stronę w naszym wolnym czasie po to, żeby
+      poszerzyć nasz zestaw umiejętności i wzbogacić nasze portfolio.
+      Ta strona oferuje nam możliwość na uporządkowanie informacji na temat
+      naszej własnej rodziny. Udostępniając wam naszą stronę mamy nadzieję, że nowi użytkownicy zaoferują
+      sugestie dotyczące ulepszenia witryny a nawet kodu.`,
 
-      Question5: `Jakie przeglądarki to działa dalej?`,
-      Answer5: `Witryna jest testowany na najnowszej wersji z najlepszych przeglądarek na
-      komputerach i urządzeniach mobilnych.
-      Nie mogą być problemy na nieobsługiwanych przeglądarek, takich
-      jak Android starszych przeglądarek, Internet Explorer 9 i poniżej.`,
+      Question5: `Na jakich przeglądarkach działa ta strona?`,
+      Answer5: `Witryna jest testowana w najnowszych wersjach najpopularniejszych przeglądarek
+      komputerowych i komórkowych.
+      Możesz doświadczyć problemów jeśli używasz przeglądarki które nie są już obsługiwanymi , n.p. starsze przeglądarki Androida, 
+      Internet Explorer 9 i poniżej.`,
 
-      Question6: `Czy istnieje limit zdjęć mogę przesłać?`,
-      Answer6: `Nie w tej chwili nie ma. Obrazy są zapisywane na
+      Question6: `Czy istnieje limit zdjęć, które mogę zamieścić na stronie?`,
+      Answer6: `Nie w tej chwili nie ma limitu. Zdjęcia są zapisywane na
       <a href="https://aws.amazon.com/s3/">Amazon S3</a>
-      który jest bardzo tanie, więc nie przeszkadza
-      pokryje koszty.
+      co jest bardzo bardzo tanie, więc nie mamy nic przeciwko pokryciu kosztów.
       Jeśli jednak wielu użytkowników zacznie przesyłać tysiące zdjęć,
-      będziemy musieli stworzyć granicę.`,
+      będziemy musieli ustalić limit.`,
 
       Question7: `Czy mogę reklamować na swojej stronie?`,
       Answer7: `Nie mamy żadnych planów, aby zebrać pieniądze poprzez reklamy na stronie
