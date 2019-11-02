@@ -63,24 +63,16 @@ export const polish = {
       OurStory: 'Nasza historia',
       OurStoryStub: 'Jak i dlaczego stworzyliśmy tę stronę?',
       ContactUs: 'Skontaktuj się z nami',
-      ContactUsStub: `Jeśli masz jakieś pytania, chcesz zgłosić błąd, poprosić o funkcję lub
-      dodać do kodu źródłowego.`,
+      ContactUsStub: `Jeśli masz jakieś pytania, chcesz zgłosić błąd, poprosić o funkcję lub dodać do kodu źródłowego.`,
       FAQ: 'FAQ',
       FAQStub: 'Często Zadawane Pytania',
 
       StoryHeading: 'Jak to się zaczęło',
-      StoryText1: `Cześć. Jestem Justin po lewej stronie. I jestem Adrian po prawej stronie.`,
-      StoryText2: `Jest to strona, aby nagrać nasze drzewo genealogiczne i działają trochę jak
-      sieci społecznej. Można utrzymywać profil tutaj i zobacz, jak daleko sięga
-      drzewo!
-      Jako osoba zostanie dodana do drzewa genealogicznego, otrzymują
-      e-mail, więc mogą one zostać użytkownikiem i dodać do niej więcej ludzi.
-      Witryna została zainspirowana przez naszych rodzinnych spotkań i
-      trudności wyjaśniając, jak wszyscy jesteśmy spokrewnieni. Nasza rodzina jest
-      bardzo zróżnicowany z wielu grup etnicznych i rozprzestrzenił się na całym
-      świecie.
-      Jako rodzina rośnie i ewoluuje, chcieliśmy sposób dokumentowania
-      wszystkich i pozostać w kontakcie.`,
+      StoryText1: `Cześć, jestem Justin (ten po prawej stronie). A ja jestem Adrian (po lewej stronie).`,
+      StoryText2: `Zbudowaliśmy tą stronę, która działa trochę jak sieć społeczna, żeby stworzyć drzewo genealogiczne naszej rodziny. Możesz tutaj dodać profil swój i swojej rodziny i zobaczy, jak daleko sięga wasze
+      drzewo genealogiczne!
+      Gdy dodasz nowego członka rodziny do swojego drzewa genealogicznego, osoba ta otrzyma wiadomość e-mail zawierający instrukcje jak stać się użytkownikiem strony.
+      Witryna została zainspirowana naszymi spotkaniami rodzinnymi i trudnościami wynikającymi z prób wyjaśnienia jak wszyscy jesteśmy spokrewnieni. Nasza rodzina jest bardzo zróżnicowana, ma wiele grup etnicznych i jest rozrzucona po całym świecie.`,
 
       ContactHeading: 'Kontakt',
       ContactEmail: `Skontaktuj się z nami poprzez e-mail <a href="mailto:info@okkindred.com">info@okkindred.com</a>`,
